@@ -13,7 +13,7 @@ TCP Connection: Supports client-server communication via socket programming.
 Command Handling: Basic commands such as GET, SET, DEL, and ZADD.
 
 # Tech Stack
-C++
-Socket Programming (for TCP connections)
-AVL Tree (for sorted sets)
+C++, 
+Socket Programming (for TCP connections), 
+AVL Tree (for sorted sets), 
 Hashtable (for data storage and retrieval)
